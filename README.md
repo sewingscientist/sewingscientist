@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-<!--
-**sewingscientist/sewingscientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🔬 - I'm Maggie, a Biomedical Scientist turned Junior Software Engineer with a love for sewing (the name makes sense now!)
+>
+> 🎓 - I'm in my early career stage
+>
+> 🎓 - I'm a Code First Girls Degree Summer 2023 Graduate with specialization in Software
+>
+> 💻 - I'm looking to collaborate on python apps to boost my knowledge
+>
+> 📬 - How to reach me: Instagram: @shecodeshere
