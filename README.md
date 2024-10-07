@@ -7,6 +7,6 @@
 🎓 I'm a Code First Girls Degree Summer 2023 Graduate with specialization in Software
 >
 💻 I'm looking to collaborate on python apps to boost my development and knowledge
->Committed to expanding my knowledge of various technologies to contribute to innovative development projects."
+>Committed to expanding my knowledge of various technologies to contribute to innovative projects.
 >
 📬 How to reach me: Instagram: @shecodeshere
