@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-🔬 I'm Maggie, a Biomedical Scientist turned Junior Software Engineer with a love for sewing (the name makes sense now!)
+🔬 I'm Maggie, a Biomedical Scientist turned Software Engineer with a love for sewing (the name makes sense now!)
 >
 🎓 I'm a Code First Girls Degree Summer 2023 Graduate with specialization in Software
 >
